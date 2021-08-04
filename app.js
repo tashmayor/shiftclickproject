@@ -1,7 +1,7 @@
 var prev = document.getElementById('previous');
 var next = document.getElementById('next');
 
-var arr = ["NBCPoster.jpg", "HalloweenPoster.jpg", "ITPoster.jpg"];
+var arr = ["NBCPoster.jpg", "HalloweenPoster.jpg", "ITPoster.jpg", "lostboys.jpeg"];
 
 var i = 0;
 

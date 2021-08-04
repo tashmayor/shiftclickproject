@@ -13,7 +13,7 @@ body {
 }
 
 #image {
-  height: 350px;
+  height: 450px;
   width: 350px;
 }
 
@@ -43,5 +43,6 @@ p {
   padding-left: 10px;
   padding-top: 2px;
   margin-left: 22%;
+
 }
 
